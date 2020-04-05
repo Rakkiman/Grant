@@ -1,13 +1,13 @@
 {
-    "year": "2377",
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "year": "1995",
+    "serverAddress": "IBPFhost",
+    "serverName": "Node G15 Intranet",
+    "iconName": "fbi.png",
+    "terminalID": "G15",
     "defaultUser": {
-        "userId": "user",
+        "userId": "Grant",
         "password": "",
-        "userName": "anonymous"
+        "userName": "Grant"
     },
     "randomSeed": true,
     
