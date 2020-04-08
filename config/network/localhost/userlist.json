@@ -1,19 +1,25 @@
 [
     {
-        "userId": "Campbell",
-        "password": "Zeusforehead",
-        "userName": "Campbell, Jamie"
+        "userId": "8A73B5",
+        "password": "trustno1",
+        "userName": "Mulder, Fox"
     },
 
     {
         "userId": "Klinger",
         "password": "NewTerra",
-        "userName": "Klinger, Helen"
+        "userName": "Klinger"
     },
 
     {
+        "userId": "Campbell",
+        "password": "Zeusforehead",
+        "userName": "Campbell"
+    },
+    
+    {
         "userId": "Black",
         "password": "trustno1",
-        "userName": "Black, Philip"
+        "userName": "Black"
     }
 ]
