@@ -1,31 +1,25 @@
 [
     {
-        "userId": "8A73B5",
+        "userId": "Campbell",
+        "password": "Zeusforehead",
+        "userName": "Campbell, Jamie"
+    },
+
+    {
+        "userId": "Klinger",
+        "password": "NewTerra",
+        "userName": "Klinger, Helen"
+    },
+
+    {
+        "userId": "Black",
         "password": "trustno1",
-        "userName": "Mulder, Fox"
+        "userName": "Black, Philip"
     },
 
     {
-        "userId": "a",
-        "password": "a",
-        "userName": "Mulder, Fox"
+        "userId": "",
+        "password": "",
+        "userName": ""
     },
-
-    {
-        "userId": "admin",
-        "password": "admin",
-        "userName": "root"
-    },
-
-    {
-        "userId": "Grant",
-        "password": "piuerjlo21",
-        "userName": "Grant"
-    },
-    
-    {
-        "userId": "Grant",
-        "password": "piuerjlo21",
-        "userName": "Grant"
-    }
 ]
