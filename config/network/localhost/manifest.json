@@ -1,12 +1,12 @@
 {
     "year": "1995",
-    "serverAddress": "IBPFhost",
-    "serverName": "Node G15 Intranet",
-    "terminalID": "G15",
+    "serverAddress": "HBAhost",
+    "serverName": "MT HB25 Intranet",
+    "terminalID": "Dee",
     "defaultUser": {
-        "userId": "Grant",
+        "userId": "user",
         "password": "",
-        "userName": "Grant"
+        "userName": "user"
     },
     "randomSeed": true,
     
