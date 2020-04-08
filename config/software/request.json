@@ -1,0 +1,57 @@
+{
+    "request": {
+        "filename": "request",
+        "filetype": "exe",
+        "location": ["127.0.0.1", "localhost"],
+        "protection": ["Campbell", "Klinger", "Black",
+                
+        "delayed": 2000,
+        "message": [
+            "Analyzing request..",
+            "Analyzing request..",
+            "Connecting..",
+            "0% complete",
+            "11% complete",
+            "47% complete",
+            "98% complete",
+            "Connection complete!"
+            "Pointing Olympian.."
+            "0% complete",
+            "16% complete",
+            "99% complete",
+            "Olympian pointed!"
+            "Receiving target data"
+            "Target data received!"
+            "Processing target data.."
+            "Target data processed!"
+            "Analyzing target data.."
+            "0% complete",
+            "11% complete",
+            "23% complete",
+            "31% complete",
+            "46% complete",
+            "62% complete",
+            "77% complete",
+            "98% complete",
+            "100% complete",
+            "Target data analyzed!"
+            "Target coordinates RA 4h 35m 55s | DEC +16° 30′ 33″"
+            "Target distance 65.3 ± 1.0 ly"
+            "Target 109åy84öjqw0182y4OGU"¤janof"
+            "Target data corrupted"
+            "Repairing target data"
+            "0% complete"
+            "20% complete"
+            "67% complete"
+            "99% complete"
+            "99% complete"
+            "99% complete"
+            "Error while repairing target data"
+            "Analyzing target data"
+            
+       
+            
+            
+        ]
+    }
+}
